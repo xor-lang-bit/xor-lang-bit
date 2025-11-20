@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/xor-lang-bit/README/main/hachihachi.png" alt="Hachiware (ハチワレ)" width="200" style="border-radius: 50%; border: 5px solid #e0e0e0;">
 </p>
 
-<h1 align="center">Hi, I’m Cheng</h1>
+<h1 align="center">Hi, I’m Xor!</h1>
 
 <p align="center">
   A passionate game, web, and software developer focused on <strong>Quality</strong>.<br>
